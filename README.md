@@ -34,4 +34,4 @@ Ensure you have the necessary database connection details (host, database name, 
 The `grafica_censo_filtrado_region` function can be used to generate a bar graph of filtered population data. Provide the desired filter arguments (entity, municipality, locality, ageb) to customize the graph according to your requirements.
 
 ## Author <a name="author"></a>
-This project was implemented by [Your Name] as part of a population data analysis task. Feel free to reach out via [email] for any questions or feedback.
+This project was implemented by Miguel Millan as part of a population data analysis task. Feel free to reach out via [email] for any questions or feedback.
